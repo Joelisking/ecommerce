@@ -23,8 +23,6 @@ Explore the live website at [JAK Headphones](https://jak-headphones.vercel.app/)
 - **Next.js**: React framework for building server-side rendered and static web applications.
 - **Sanity CMS**: Headless CMS for managing content, including product data.
 - **Tailwind CSS**: Utility-first CSS framework for styling the user interface.
-- **Stripe**: Payment processing platform for handling transactions securely.
-- **Authentication**: Implement authentication using NextAuth.js or similar libraries.
 
 ## Getting Started
 
