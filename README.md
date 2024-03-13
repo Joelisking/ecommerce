@@ -45,9 +45,6 @@ Contributions are welcome! Feel free to open issues or pull requests for any imp
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments!
-[Uploading Screenshot 2024-03-13 at 1.58.15 PM.png…]()
-
-
 
 - Thanks to Sanity CMS for providing a robust content management solution.
 - Special thanks to the Next.js community for creating such a powerful framework for building web applications.
