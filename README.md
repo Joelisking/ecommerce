@@ -2,7 +2,7 @@
 
 # JAK Headphones
 
-Headphone Haven is an ecommerce website built using Next.js and Sanity CMS. It offers a wide range of headphones for sale, providing users with a seamless shopping experience.
+This is an ecommerce website built using Next.js and Sanity CMS. It offers a wide range of headphones for sale, providing users with a seamless shopping experience.
 
 ## Live Website
 
